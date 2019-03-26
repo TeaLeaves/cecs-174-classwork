@@ -1,3 +1,15 @@
+#Input must be in one of these 4 formats (XYZ representing numbers):
+#Interstate XYZ
+#I-XYZ
+#IXYZ
+#XYZ
+
+#Casing matters
+#Must ask again if:
+#it is not one of the 4 formats, input is 0, input is a negitive number, or over 3 digit
+
+
+
 #interstate number
 def get_interstate_number():
     #global value
